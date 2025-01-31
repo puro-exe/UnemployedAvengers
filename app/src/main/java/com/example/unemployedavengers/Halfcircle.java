@@ -8,7 +8,6 @@ public class HalfCircleDrawer extends JPanel {
         super.paintComponent(g);
         Graphics2D g2d = (Graphics2D) g;
 
-
         int width = getWidth();
         int height = getHeight();
         int diameter = Math.min(width, height);

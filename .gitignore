@@ -1,0 +1,9 @@
+# Ignore Android Studio specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore build folders
+/build/
+

@@ -1,7 +1,7 @@
 package com.example.unemployedavengers;
 
 public abstract class Shape {
-    String color = "blue";
+    String color = "red";
     protected int x;
     protected int y;
 

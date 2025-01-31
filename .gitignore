@@ -7,3 +7,5 @@
 # Ignore build folders
 /build/
 
+.gradle/
+local.properties

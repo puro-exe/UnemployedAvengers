@@ -10,5 +10,3 @@ public class Triangle extends Shape {
     @Override
     public double getArea() {return 0.5f*x*y;}//gets the area of the triangle
 
-
-}

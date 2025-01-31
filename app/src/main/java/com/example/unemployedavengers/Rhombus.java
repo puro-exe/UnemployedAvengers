@@ -1,8 +1,7 @@
 package com.example.unemployedavengers;
-public class Rhom extends Shape {
-    public Pentagon(int x, int y) {
+public class Rhombus extends Shape {
+    public Rhombus(int x, int y) {
         super(x, y);
-        this.color = "Purple";
     }
     @Override
     public double getArea() {
